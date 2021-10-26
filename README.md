@@ -7,7 +7,7 @@
   <h1>Gatsby dark mode example</h1>
 <img src="./dark-mode.gif" >
   <p>Simple dark mode functionality for Gatsby app. </p>
-  If you want to read step by step tutorial for creating a dark mode, check <a href="www.webdevolution.com/blog/Create-Gatsby-Dark-Mode">this </a> blog post.
+  If you want to read step by step tutorial for creating a dark mode, check <a href="https://www.webdevolution.com/blog/Create-Gatsby-Dark-Mode">this </a> blog post.
 </div>
 
 ## 🚀  Quick start
