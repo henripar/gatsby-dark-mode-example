@@ -1,0 +1,17 @@
+@import "../styles/index.css";
+.headerContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80px;
+  width: 100%;
+  background: #000;
+}
+.link {
+  color: #fff;
+  text-decoration: none;
+  margin: 1rem 2rem;
+}
+.link:hover {
+  color: pink;
+}

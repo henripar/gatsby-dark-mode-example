@@ -2,12 +2,10 @@ import React from "react"
 
 import * as styles from "../styles/index.module.css"
 
-import "../styles/index.css"
-
-export default function Home() {
+export default function About() {
   return (
     <div className={styles.mainContainer}>
-      <h1>Home</h1>
+      <h1>About</h1>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium
         voluptatem similique fuga ut quibusdam perspiciatis impedit animi
